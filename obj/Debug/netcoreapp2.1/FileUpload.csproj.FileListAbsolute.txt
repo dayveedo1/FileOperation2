@@ -1,0 +1,17 @@
+C:\Users\A\Documents\csharp\FileUpload\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\A\Documents\csharp\FileUpload\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\A\Documents\csharp\FileUpload\bin\Debug\netcoreapp2.1\FileUpload.deps.json
+C:\Users\A\Documents\csharp\FileUpload\bin\Debug\netcoreapp2.1\FileUpload.runtimeconfig.json
+C:\Users\A\Documents\csharp\FileUpload\bin\Debug\netcoreapp2.1\FileUpload.runtimeconfig.dev.json
+C:\Users\A\Documents\csharp\FileUpload\bin\Debug\netcoreapp2.1\FileUpload.dll
+C:\Users\A\Documents\csharp\FileUpload\bin\Debug\netcoreapp2.1\FileUpload.pdb
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.csprojAssemblyReference.cache
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.AssemblyInfoInputs.cache
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.AssemblyInfo.cs
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.RazorAssemblyInfo.cache
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.RazorAssemblyInfo.cs
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.RazorTargetAssemblyInfo.cache
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.dll
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.pdb
+C:\Users\A\Documents\csharp\FileUpload\obj\Debug\netcoreapp2.1\FileUpload.genruntimeconfig.cache
